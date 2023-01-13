@@ -1,0 +1,34 @@
+{
+    "name": "MainMenuInputs",
+    "maps": [
+        {
+            "name": "MainMenuKeyboard",
+            "id": "91cc5cae-71ac-4190-8e83-f8bfe3254c83",
+            "actions": [
+                {
+                    "name": "EnemyClick",
+                    "type": "Button",
+                    "id": "e681f291-569f-4fb0-90de-949fdf273a82",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "292897e5-e6a3-4fa6-90a4-4a2a71cd1a0d",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "EnemyClick",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

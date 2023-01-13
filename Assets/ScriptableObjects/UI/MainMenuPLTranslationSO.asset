@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc24050979fb9d544b93704560921e29, type: 3}
+  m_Name: MainMenuPLTranslationSO
+  m_EditorClassIdentifier: 
+  startGameButton: Start Gry
+  optionsButton: Opcje
+  creditsButton: "Tw\xF3rcy"
+  exitButton: "Wyj\u015Bcie"
+  backButton: "Wr\xF3\u0107"
+  languageText: "Zmie\u0144 J\u0119zyk"
+  musicText: "G\u0142o\u015Bno\u015B\u0107 muzyki"
+  soundText: "G\u0142o\u015Bno\u015B\u0107 Efekt\xF3w"
+  exitWindowQuestion: Na pewno?
+  confirmText: Tak
+  declineText: Nie
+  creditsText: "<b><size=\"45\">Tw\xF3rcy</size></b><br><br> <b><size=\"40\">Programowanie
+    oraz edycja asset\xF3w</size></b><br><br> Grzegorz Augustyniak<br><br> <b><size=\"40\">Assety
+    UI</size></b><br><br> Agnieszka Ga\u0142uszka<br><br> https://craftpix.net/freebies/free-pixel-art-fantasy-2d-battlegrounds/<br><br>https://fontenddev.com/fonts/digital-disco/
+    <br><br><b><size=\"40\">Assety dzwi\u0119kowe</size></b><br><br> Ghotic_Cute
+    by Peritunes<br> https://freesound.org/people/adgawrhbshbffsfgvsrf/sounds/494041/<br><br>"

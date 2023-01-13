@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78396a617e45cc8429c4b86d65f8c179, type: 3}
+  m_Name: LoadingTipsPLSO
+  m_EditorClassIdentifier: 
+  tips:
+  - "Nietoperze nie lubi\u0105 gdy si\u0119 w nie klika."
+  - "Osoba po prawej nigdy nie ruszy si\u0119 z mniejsca mimio jego  najlepszych
+    stara\u0144 :("
+  - "Szczury lubi\u0105 ser."
+  - "Nie obs\u0142ugiwany b\u0142\u0105d wskaz\xF3wek, zobacz stron\u0119  421 w
+    instukcji."
